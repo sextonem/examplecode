@@ -1,0 +1,10 @@
+name: mie451-assignment-ml
+dependencies:
+  - python=3.6
+  - nb_conda
+  - scipy=1.1.0
+  - numpy=1.15.2
+  - nltk=3.3.0
+  - scikit-learn=0.20.0
+  - pandas=0.23.4
+  - matplotlib=3.0.0
